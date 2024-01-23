@@ -136,7 +136,6 @@ rules:
       - ['meta[- ]data', metadata]
       - [nd-?json, NDJSON]
       - [node\.?js, Node.js]
-      - [open-source, open source]
       - # OpenTelemetry, exclude occurrences like:
         # - Compound names: go.opentelemetry.io
         # - Paths: medium.com/opentelemetry
